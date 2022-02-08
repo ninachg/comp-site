@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+    background-color: rgb(231, 243, 238);
+}
+
+h1{
+     color: rgb(30, 101, 117);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10%;
+    border: solid rgb(30, 101, 117) 3px;
+    border-radius:10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 35%;
+    margin-right:35%;
+}
+
+ul{
+    
+    text-align: center;
+}
+ li{
+    display:list-item;
+    margin: 0 8px;
+    line-height: 80px;
+}
+
+ ul a{
+    color: rgb(30, 101, 117);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+ }
+
+ ul a:hover{
+    color: rgb(150, 190, 199);
+ }
